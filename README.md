@@ -1,7 +1,7 @@
 # Personal portfolio by Julia Korhonen
 This portfolio includes school projects. 
 ## Responsive website
-[This website](https://juliakorhonen.github.io/Responsive-website) was done as a project for Responsive Web Design course at VIA University College, Aarhus, Denmark. It was made together with Jesse Nukarinen. It includes responsive design and works in multiple resolutions, including mobile. 
+[This website](https://juliakorhonen.github.io/Responsive-website) was done as a project for Responsive Web Design course at VIA University College, Aarhus, Denmark in 2018. It was made together with Jesse Nukarinen. It includes responsive design and works in multiple resolutions, including mobile. 
 
 ## Video project for Swedish course
 This video below was made in 2017 for oral exam of Swedish for Technology course at Aalto University. The video is edited with Sony Vegas Video. 
