@@ -1,4 +1,4 @@
-# juliakorhonen.github.io
+# Personal portfolio
 - hello
 ## moi
-[google.com](moi)
+(moi)[google.com]
