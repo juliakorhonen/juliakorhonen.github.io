@@ -1,4 +1,4 @@
 # Personal portfolio by Julia Korhonen
 - hello
 ## moi
-[moi](https://github.com/juliakorhonen/Responsive-website)
+[moi](https://juliakorhonen.github.io//Responsive-website)
