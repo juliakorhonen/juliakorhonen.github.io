@@ -1,0 +1,88 @@
+body {
+  /*background-color:  #ffd5cd;*/
+  /*background-image: linear-gradient(#ffd5cd, white);*/
+
+}
+
+.jumbotron {
+  background-color: #ffd5cd;
+  font-family: 'Satisfy', cursive;
+}
+
+.intro {
+  text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 20px;
+  margin-bottom: 5em;
+}
+
+.container {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.project1, .project3, .project5 {
+  background-color: #efbbcf;
+}
+
+.project2, .project4 {
+  background-color: #c3aed6;
+}
+
+.row {
+  margin: 1em;
+  padding: 2em;
+}
+
+
+
+p {
+  font-size: 18px;
+}
+
+li {
+  font-size: 18px;
+}
+
+iframe {
+  padding: 5px;
+}
+
+/* PICTURES AND VIDEOS */
+.img-me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.img-duck {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.img-gamestore {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.img-viafit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.video-swedish {
+  padding-top: 10px;
+}
