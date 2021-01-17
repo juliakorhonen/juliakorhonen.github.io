@@ -9,10 +9,10 @@ body {
   font-family: 'Satisfy', cursive;
 }
 .name{
-  font-size: 8em!important
+  font-size: 8em!important;
 }
 .welcome {
-  font-size: 3em!important
+  font-size: 3em!important;
 }
 
 .intro {
@@ -47,7 +47,7 @@ p {
 }
 
 h2 {
-  font-size: 2em!important
+  font-size: 2em!important;
 }
 
 li {
@@ -57,6 +57,8 @@ li {
 iframe {
   height: 600;
   width: 100%;
+
+  margin-top: 2rem;
 }
 
 /* PICTURES AND VIDEOS */
@@ -112,10 +114,12 @@ iframe  {
 
 @media (max-width: 992px) {
   .name{
-    font-size: 5em!important
+    font-size: 5em!important;
+    margin-right: 1rem;
+    margin-left: 1rem;
   }
   .welcome {
-    font-size: 2em!important
+    font-size: 2em!important;
   }
   .img-me {
     display: block;
@@ -126,10 +130,46 @@ iframe  {
 }
 @media (max-width: 576px) {
   .name{
-    font-size: 5em!important
+    font-size: 5em!important;
+    margin-right: 1rem;
+    margin-left: 1rem;
   }
   .welcome {
-    font-size: 2em!important
+    font-size: 2em!important;
+  }
+  .img-me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .aspect-ratio {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+  }
+
+  .aspect-ratio iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+  }
+
+  .col-md-6 {
+    text-align:center;
+  }
+}
+@media (max-width: 360px) {
+  .name{
+    font-size: 4em!important;
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+  }
+  .welcome {
+    font-size: 1.5em!important;
   }
   .img-me {
     display: block;
