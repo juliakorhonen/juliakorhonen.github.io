@@ -16,6 +16,12 @@ body {
   font-size: 3em!important;
 }
 
+.wip {
+  text-align: center;
+  background-color: white;
+  font-size: 2em;
+}
+
 .intro-row {
   background-color: white;
 }
